@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  View,
-  FlatList,
-  StyleSheet,
-  Text,
-  Image,
-} from "react-native";
+import { View, FlatList, StyleSheet, Text, Image } from "react-native";
 const posts = [
   {
     userId: 1,
