@@ -18,7 +18,7 @@ Documentation: [https://reactnative.dev/docs/getting-started](https://reactnativ
 ### Remarques
 
 #### Liens images
-Certains liens vers les images ne fonctionnent plus car le TP a été écrit il y a longtemps. Dans ce repo j'ai mis des liens vers des images randoms mais tous les liens sont fonctionnels. 
+Certains liens vers les images présents dans l'énoncé du TP et dans les codes fournis ne fonctionnent plus car le TP a été écrit il y a longtemps. Dans ce repo j'ai mis à jour les liens avec images randoms mais au moins tous les liens sont fonctionnels. 
 
 #### Q8: TP1
 
